@@ -1,0 +1,10 @@
+<resources>
+    <style name="NotesTheme" parent="android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:windowBackground">#FFFCF4</item>
+        <item name="android:statusBarColor">#FFFCF4</item>
+        <item name="android:navigationBarColor">#FFFCF4</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:windowLightNavigationBar">true</item>
+        <item name="android:colorAccent">#A16A00</item>
+    </style>
+</resources>
